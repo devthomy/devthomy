@@ -1,37 +1,28 @@
-# Welcome to @devthomy's GitHub Profile
+# Welcome to @devthomy's GitHub Profile 🌟
 
-I am a passionate 19-year-old French developer, deeply engaged in crafting modern and efficient web solutions. My focus lies in leveraging cutting-edge technologies to deliver outstanding user experiences.
+Hello! I'm a fervent 19-year-old developer from France, dedicated to developing modern and efficient web solutions. My passion lies in harnessing the power of cutting-edge technologies to create unparalleled user experiences.
 
-## About Me
+## 👨‍💻 About Me
 
-- 🌐 From France, embracing the ever-evolving world of web development.
-- 🚀 Specialized in <img alt="Next.js" src="https://img.icons8.com/color/48/000000/nextjs.png"/> , <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>,  <img alt="Tailwind CSS" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>, and  <img alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/>.
+Hailing from France, I am deeply immersed in the dynamic and ever-evolving world of web development. My specialization includes:
 
+- **Next.js** ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) - Crafting scalable and SEO-optimized web applications.
+- **React** ![React](https://img.icons8.com/color/48/000000/react-native.png) - Designing dynamic and responsive user interfaces.
+- **Tailwind CSS** ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) - Implementing modern, responsive designs with a utility-first approach.
+- **TypeScript** ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) - Enhancing JavaScript code reliability and maintainability.
 
-## Current Endeavors
+## 📫 Contact Me
 
-<p>
-  <img alt="Next.js" src="https://img.icons8.com/color/48/000000/nextjs.png"/> <b>Next.js</b>: Building scalable and SEO-optimized web applications.
-</p>
-<p>
-  <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/> <b>React</b>: Designing dynamic and responsive user interfaces.
-</p>
-<p>
-  <img alt="Tailwind CSS" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <b>Tailwind CSS</b>: Implementing modern, responsive designs with a utility-first approach.
-</p>
-<p>
-  <img alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/> <b>TypeScript</b>: Enhancing JavaScript code reliability and maintainability.
-</p>
+Let's connect and collaborate:
 
-## Contact Me
+- 📧 Email: [thomaseroz@icloud.com](mailto:thomaseroz@icloud.com)
+- 🔗 LinkedIn: [Thomas Bail](https://www.linkedin.com/in/thomas-bail-a52512274/)
+- 🌐 Website: [Clyck](https://clyck.fr)
 
-Connect with me through:
-- Email: [thomaseroz@icloud.com]
-- LinkedIn: [Thomas Bail](https://www.linkedin.com/in/thomas-bail-a52512274/)
-- Website: [Clyck](https://clyck.fr)
+## 📈 GitHub Statistics
 
-## GitHub Statistics
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=devthomy&theme=gruvbox&show_icons=true)
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=devthomy&theme=gruvbox_icons=true)
+## 🙏 Acknowledgement
 
-Thank you for visiting my profile. Feel free to explore my projects and share your thoughts!
+Thank you for visiting my profile. I invite you to explore my projects and share your thoughts. Your feedback and collaborations are always welcome!
