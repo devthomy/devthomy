@@ -5,8 +5,8 @@ I am a passionate 19-year-old French developer, deeply engaged in crafting moder
 ## About Me
 
 - 🌐 From France, embracing the ever-evolving world of web development.
-- 🚀 Specialized in Next.js, React, Tailwind CSS, and TypeScript.
-- 🎯 Focused on creating high-performance, SEO-friendly, and aesthetically pleasing web applications.
+- 🚀 Specialized in <img alt="Next.js" src="https://img.icons8.com/color/48/000000/nextjs.png"/> , <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>,  <img alt="Tailwind CSS" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>, and  <img alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/>.
+
 
 ## Current Endeavors
 
