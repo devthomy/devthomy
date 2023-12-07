@@ -6,10 +6,10 @@ Hello! I'm a fervent 19-year-old developer from France, dedicated to developing 
 
 Hailing from France, I am deeply immersed in the dynamic and ever-evolving world of web development. My specialization includes:
 
-- **Next.js** ![Stylish Next.js Icon](https://your-icon-source.com/nextjs-icon.png) - Crafting scalable and SEO-optimized web applications.
-- **React** ![Stylish React Icon](https://your-icon-source.com/react-icon.png) - Designing dynamic and responsive user interfaces.
-- **Tailwind CSS** ![Stylish Tailwind CSS Icon](https://your-icon-source.com/tailwindcss-icon.png) - Implementing modern, responsive designs with a utility-first approach.
-- **TypeScript** ![Stylish TypeScript Icon](https://your-icon-source.com/typescript-icon.png) - Enhancing JavaScript code reliability and maintainability.
+- **Next.js**
+- **React** 
+- **Tailwind CSS**
+- **TypeScript** 
 
 ## 📫 Contact Me
 
