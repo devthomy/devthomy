@@ -10,14 +10,18 @@ I am a passionate 19-year-old French developer, deeply engaged in crafting moder
 
 ## Current Endeavors
 
-- **Next.js**: Building scalable and SEO-optimized web applications.
-- **React**: Designing dynamic and responsive user interfaces.
-- **Tailwind CSS**: Implementing modern, responsive designs with a utility-first approach.
-- **TypeScript**: Enhancing JavaScript code reliability and maintainability.
-
-## Collaborations and Projects
-
-I am keenly interested in collaborating on innovative projects, especially those that align with my technological interests. If you have a project in mind or need technical assistance, feel free to reach out!
+<p>
+  <img alt="Next.js" src="https://img.icons8.com/color/48/000000/nextjs.png"/> <b>Next.js</b>: Building scalable and SEO-optimized web applications.
+</p>
+<p>
+  <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/> <b>React</b>: Designing dynamic and responsive user interfaces.
+</p>
+<p>
+  <img alt="Tailwind CSS" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <b>Tailwind CSS</b>: Implementing modern, responsive designs with a utility-first approach.
+</p>
+<p>
+  <img alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/> <b>TypeScript</b>: Enhancing JavaScript code reliability and maintainability.
+</p>
 
 ## Contact Me
 
