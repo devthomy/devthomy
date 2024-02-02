@@ -17,11 +17,6 @@ Let's connect and collaborate:
 
 - 📧 Email: [thomaseroz@icloud.com](mailto:thomaseroz@icloud.com)
 - 🔗 LinkedIn: [Thomas Bail](https://www.linkedin.com/in/thomas-bail-a52512274/)
-- 🌐 Website: [Clyck](https://clyck.fr)
-
-## 📈 GitHub Statistics
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=devthomy&theme=gruvbox&show_icons=true)
 
 ## 🙏 Acknowledgement
 
