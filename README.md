@@ -18,6 +18,3 @@ Let's connect and collaborate:
 - 📧 Email: [thomaseroz@icloud.com](mailto:thomaseroz@icloud.com)
 - 🔗 LinkedIn: [Thomas Bail](https://www.linkedin.com/in/thomas-bail-a52512274/)
 
-## 🙏 Acknowledgement
-
-Thank you for visiting my profile. I invite you to explore my projects and share your thoughts. Your feedback and collaborations are always welcome!
