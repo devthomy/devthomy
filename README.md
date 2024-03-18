@@ -18,6 +18,4 @@ Let's connect and collaborate:
 - 📧 Email: [thomaseroz@icloud.com](mailto:thomaseroz@icloud.com)
 - 🔗 LinkedIn: [Thomas Bail](https://www.linkedin.com/in/thomas-bail-a52512274/)
 
-## Stat
 
-https://github-readme-stats.vercel.app/api?username=devthomy&show_icons=true&theme=radical
