@@ -19,14 +19,14 @@ Hailing from France, I am deeply immersed in the dynamic and ever-evolving world
 
 ## 📈 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devthomy&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthomy&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devthomy&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthomy&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devthomy&theme=onedark" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devthomy&theme=onedark" alt="GitHub Trophies" style="width: 80%;"/>
+</div>
 
 ---
 
@@ -46,4 +46,3 @@ Hailing from France, I am deeply immersed in the dynamic and ever-evolving world
 </p>
 
 ---
-
