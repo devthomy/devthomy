@@ -2,39 +2,48 @@
 
 Hello! I'm a fervent 19-year-old developer from France, dedicated to developing modern and efficient web solutions. My passion lies in harnessing the power of cutting-edge technologies to create unparalleled user experiences.
 
+---
+
 ## 👨‍💻 About Me
 
 Hailing from France, I am deeply immersed in the dynamic and ever-evolving world of web development. My specialization includes:
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</div>
+</p>
+
+---
 
 ## 📈 GitHub Stats & Trophies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devthomy&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devthomy&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthomy&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devthomy&theme=onedark" alt="GitHub Trophies"/>
-</div>
+</p>
+
+---
 
 ## 📫 Contact Me
 
-<div align="center">
+<p align="center">
   <a href="mailto:thomaseroz@icloud.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/thomas-bail-a52512274/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=devthomy&color=brightgreen" alt="Profile Views"/>
-</div>
+</p>
+
+---
+
