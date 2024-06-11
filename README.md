@@ -29,7 +29,7 @@ Hailing from France, I am deeply immersed in the dynamic and ever-evolving world
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devthomy&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=devthomy&color=purple" alt="Profile Views"/>
 </p>
 
 ---
