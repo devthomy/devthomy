@@ -36,5 +36,5 @@ Hailing from France, I am deeply immersed in the dynamic and ever-evolving world
 
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=modern-lilac2" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=modern-lilac2)](https://git.io/streak-stats)
 </p>
