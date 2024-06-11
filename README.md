@@ -33,4 +33,6 @@ Hailing from France, I am deeply immersed in the dynamic and ever-evolving world
 </p>
 
 ---
+<p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devthomy&theme=dark&hide_border=false)<br/>
+</p>
