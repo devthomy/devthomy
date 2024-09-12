@@ -1,9 +1,4 @@
 
-
-## 👨‍💻 About Me
-
-Hailing from France, I am deeply immersed in the dynamic and ever-evolving world of web development. My specialization includes:
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
