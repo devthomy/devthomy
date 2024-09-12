@@ -8,6 +8,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=devthomy&theme=modern-lilac2" alt="GitHub Streak" />
+  </a>
+</p>
+---
+
+
 ## 📫 Contact Me
 
 <p align="center">
@@ -21,12 +29,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devthomy&color=blue" alt="Profile Views"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=devthomy&theme=modern-lilac2" alt="GitHub Streak" />
-  </a>
 </p>
