@@ -1,8 +1,4 @@
-# Welcome to @devthomy's GitHub Profile 🌟
 
-Hello! I'm a fervent 20-year-old developer from France, dedicated to developing modern and efficient web solutions. My passion lies in harnessing the power of cutting-edge technologies to create unparalleled user experiences.
-
----
 
 ## 👨‍💻 About Me
 
