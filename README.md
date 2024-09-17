@@ -17,7 +17,7 @@
 ---
 
 
-##  Contact Me
+## Contact Me
 
 <p align="center">
   <a href="mailto:thomaseroz@icloud.com">
