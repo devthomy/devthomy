@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -15,9 +14,6 @@
 </p>
 
 ---
-
-
-## Contact Me
 
 <p align="center">
   <a href="mailto:thomaseroz@icloud.com">
