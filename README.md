@@ -22,9 +22,11 @@
 
 <div align="center">
   <h3>GitHub Stats</h3>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=devthomy&label=PROFILE+VIEWS&color=grey"/>
+  <div style="margin-bottom: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=devthomy&label=PROFILE+VIEWS&color=grey" alt="Profile Views"/>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=devthomy&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="100%" height="150px">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=devthomy&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" style="width: 45%; min-width: 300px;" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=devthomy&hide_border=true&background=0d1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&dates=9f9f9f&stroke=grey&currStreakNum=FFFFFF" style="width: 45%; min-width: 300px;" alt="GitHub Streak"/>
+  </div>
 </div>
-
