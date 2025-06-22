@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h3>Languages</h3>
+  <h3>Stack</h3>
   <img src="https://img.shields.io/badge/Next.js%20-111111.svg?&style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript%20-111111.svg?&style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS%20-111111.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white">
