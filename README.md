@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Found me</h3>
+  <h3>Social media</h3>
   <a href="https://discord.com/users/602981895738753057" target="_blank">
     <img src="https://img.shields.io/badge/devthomy%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
   </a>
